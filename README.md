@@ -1,4 +1,4 @@
-# API Labs
+# API Lab
 
 > A agnostic hands-on exploration on best practices developing modern APIs.
 
