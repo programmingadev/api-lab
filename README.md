@@ -1,4 +1,4 @@
-# Lab
+# Engineering Lab
 
 > An agnostic hands-on exploration of Engineering topics.
 
