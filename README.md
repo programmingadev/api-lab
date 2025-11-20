@@ -1,6 +1,6 @@
-# API Lab
+# Lab
 
-> A agnostic hands-on exploration on best practices developing modern APIs.
+> An agnostic hands-on exploration of Engineering topics.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
